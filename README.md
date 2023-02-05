@@ -9,4 +9,4 @@ This is a simple project  on learning html and CSS at Moringa school
 
 ## Copyright & Licence
 > MIT
-> Copyright 2022 kip geoffry
+> Copyright 2023 kip geoffry
